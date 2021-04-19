@@ -6,3 +6,5 @@ Where ever you put this game on your computer, just keep that empty database.txt
 This game has few things that could be made better(that's why i put this on github), so guys feel free to raise issues even if they very very very noob
 
 :)
+
+#hacktoberfest

@@ -7,4 +7,4 @@ This game has few things that could be made better(that's why i put this on gith
 
 :)
 
-#hacktoberfest
+Topic:hacktoberfest

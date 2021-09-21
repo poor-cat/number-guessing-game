@@ -74,7 +74,6 @@ if user_name in data_names:
     score, game_played = game()
     print(f'You scored {score} points in {game_played} games.')
     print(f'Ok bye {user_name}. See you soon')
-
   
     update_data(user_name,score,game_played)
 

@@ -10,7 +10,7 @@ def game():
             user_said = input('Invalid keyword. Type again : ')
 
         elif 'y' in user_said:
-            
+    
             print('Let\'s play.Good luck!\n')
             winning_number = r.randint(1,100)
             user_guessed = int(input('guess the number : '))

@@ -6,6 +6,7 @@ def game():
     y_said = 0
     while True:
 
+
         if ('y' not in user_said) and ('n' not in user_said) and (user_said != True):
             user_said = input('Invalid keyword. Type again : ')
 
@@ -87,4 +88,5 @@ else:
     print(f'You scored {score} points in {game_played} games.')
     print(f'Ok bye {user_name}. See you soon')
     
+
     update_data(user_name,score,game_played)

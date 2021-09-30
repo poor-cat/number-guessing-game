@@ -7,7 +7,6 @@ def game():
     while True:
 
 
-
         if ('y' not in user_said) and ('n' not in user_said) and (user_said != True):
             user_said = input('Invalid keyword. Type again : ')
 

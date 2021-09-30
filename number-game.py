@@ -68,6 +68,7 @@ for names in data_file.readlines():
     data_names2.append(name)
 
     
+
     if user_name in name:
         data_game_play.append(int(g))
 

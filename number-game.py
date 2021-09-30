@@ -43,7 +43,6 @@ def game():
             turn2 += turn
             y_said += 1
 
-
         else:
             break
 

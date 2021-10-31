@@ -1,7 +1,5 @@
 import random as r
 
-
-
 def game():
     user_said = input(f'{user_name} do you want to play (Y/N) : ').lower()
     turn2 = 0
